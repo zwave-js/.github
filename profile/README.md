@@ -29,4 +29,4 @@ Together, we've built these awesome projects:
 * [Z-Wave JS Server](https://github.com/zwave-js/zwave-js-server) · Small websocket wrapper around `node-zwave-js`
 * [`node-red-contrib-zwave-js`](https://github.com/zwave-js/node-red-contrib-zwave-js) · The most powerful Z-Wave node for Node-RED
 * [Z-Wave JS Bot](https://github.com/zwave-js-bot) · Repository Bot and Github App to help us with repo maintenance
-* [`statistics-server`](https://github.com/zwave-js/statistics-server) · Custom  stack tt store and visualize custom usage statistics based on Docker
+* [`statistics-server`](https://github.com/zwave-js/statistics-server) · Custom stack to store and visualize custom usage statistics based on Docker
