@@ -25,7 +25,7 @@ We continuously try to improve and hold ourselves to the highest standards. This
 Together, we've built these awesome projects:
 * [`node-zwave-js`](https://github.com/zwave-js/node-zwave-js) · The next-gen Z-Wave device driver at the core of it all
 * [Config DB Browser](https://devices.zwave-js.io/) · A graphical overview over the existing device configuration files
-* [Zwavejs2Mqtt](https://github.com/zwave-js/zwavejs2mqtt) · Control Panel Web UI and MQTT gateway
+* [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui) · Full featured Z-Wave Control Panel and MQTT Gateway.
 * [ioBroker.zwave2](https://github.com/AlCalzone/ioBroker.zwave2) · Adapter for [ioBroker](https://www.iobroker.net/) based on Z-Wave JS
 * [Z-Wave JS Server](https://github.com/zwave-js/zwave-js-server) · Small websocket wrapper around `node-zwave-js`
 * [`node-red-contrib-zwave-js`](https://github.com/zwave-js/node-red-contrib-zwave-js) · The most powerful Z-Wave node for Node-RED
