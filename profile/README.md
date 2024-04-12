@@ -2,7 +2,7 @@
 
 <p align="center"><b>The home for Z-Wave related libraries and apps based on Z-Wave JS</b></p>
 
-Built on Node.js and compatible with all known 500 and 700 series Z-Wave controller hardware adapters, the **Z-Wave JS** driver runs on almost anything with a little bit of computing power and a serial port.
+Built on Node.js and compatible with all known 500, 700 and 800 series Z-Wave controller hardware adapters, the **Z-Wave JS** driver runs on almost anything with a little bit of computing power and a serial port.
 
 Started in 2018, Z-Wave JS has breathed new life into the Z-Wave ecosystem and now powers thousands of smart homes and some of the largest home automation systems all over the world.
 
