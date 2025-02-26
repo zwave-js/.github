@@ -30,6 +30,6 @@ Together, we've built these awesome projects:
 * [Z-Wave JS Server](https://github.com/zwave-js/zwave-js-server) · Small websocket wrapper around `node-zwave-js`
 * [`node-red-contrib-zwave-js`](https://github.com/zwave-js/node-red-contrib-zwave-js) · The most powerful Z-Wave node for Node-RED
 * [Firmware Update Service](https://github.com/zwave-js/firmware-updates/) · Automatic OTA firmware updates for your Z-Wave devices
+* [Playground](https://github.com/zwave-js/playground) · An interactive, browser-based sandbox to build, test and share scripts for interacting with a Z-Wave controller
 * [SmartStart QR Code Generator](https://zwave-js.github.io/qr/) · Web-based utility to create Z-Wave Smart Start QR codes
 * [Z-Wave JS Bot](https://github.com/zwave-js-bot) · Repository Bot and Github App to help us with repo maintenance
-* [`statistics-server`](https://github.com/zwave-js/statistics-server) · Custom stack to store and visualize custom usage statistics based on Docker
